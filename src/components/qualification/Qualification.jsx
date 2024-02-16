@@ -47,40 +47,8 @@ const Qualification = () => {
                         : "qualification__content qualification__content-active"
                     }
                 >
-                        <div className="qualification__data">
-                            <div>
-                                <h3 className="qualification__title">Barunawati Vocational Highschool</h3>
-                                <span className="qualification__subtitle">Major - Computer and Network Engineering</span>
-                                <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2014 - 2017
-                                </div>
-                            </div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-                        </div>
-
-                        <div className="qualification__data">
-                            <div></div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-                            <div>
-                                <h3 className="qualification__title">PAM GROUP (MYPAYFAST)</h3>
-                                <span className="qualification__subtitle">Full Stack Developer</span>
-                                <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> March 2022 - Jun 2023
-                                </div>
-                            </div>
-
-
-                        </div>
-
-                        <div className="qualification__data">
+                    
+                    <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Trilogi University</h3>
                                 <span className="qualification__subtitle">Major - Computer Science</span>
@@ -103,28 +71,58 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">PT. Sribu Digital Kreatif</h3>
-                                <span className="qualification__subtitle">Back End Developer </span>
+                                <h3 className="qualification__title">Cashlez Worldwide</h3>
+                                <span className="qualification__subtitle">Full Stack Web Developer</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> March 2022 - 2018
+                                    <i className="uil uil-calendar-alt"></i> Jun 2023 - Present
                                 </div>
                             </div>
 
 
                         </div>
+                        <div className="qualification__data">
+                            <div>
+                                <h3 className="qualification__title">Barunawati Vocational Highschool</h3>
+                                <span className="qualification__subtitle">Major - Computer and Network Engineering</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> 2014 - 2017
+                                </div>
+                            </div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                        </div>
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                            <div>
+                                <h3 className="qualification__title">PAM GROUP (MYPAYFAST)</h3>
+                                <span className="qualification__subtitle">Full Stack Developer</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> March 2022 - Jun 2023
+                                </div>
+                            </div>
+
+                        </div>
                     </div>
 
-                    {/* <div className={
+                    <div className={
                         toggleState === 2 
                         ? "qualification__content qualification__content-active" 
                         : "qualification__content qualification__content-active"
                     }>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Product Designer</h3>
-                                <span className="qualification__subtitle">Microsoft - Institute</span>
+                                <h3 className="qualification__title">State Junior High School 185</h3>
+                                <span className="qualification__subtitle">South Jakarta</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2011 - 2014
                                 </div>
                             </div>
 
@@ -142,10 +140,10 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">UX Designer</h3>
-                                <span className="qualification__subtitle">Apple Inc - Spain</span>
+                                <h3 className="qualification__title">PT. Sribu Digital Kreatif</h3>
+                                <span className="qualification__subtitle">Back End Developer </span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - 2022
+                                    <i className="uil uil-calendar-alt"></i> Jan 2022 - March 2022
                                 </div>
                             </div>
 
@@ -154,10 +152,10 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Designer</h3>
-                                <span className="qualification__subtitle">Figma - Spain</span>
+                                <h3 className="qualification__title">State Elementary School 013</h3>
+                                <span className="qualification__subtitle">South Jakarta</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 - 2023
+                                    <i className="uil uil-calendar-alt"></i> 2005 - 2011
                                 </div>
                             </div>
 
@@ -166,7 +164,26 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                         </div>
-                    </div> */}
+
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                            <div>
+                                <h3 className="qualification__title">PT. Transtama Group</h3>
+                                <span className="qualification__subtitle">Full Stack Developer </span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i> Sept 2020 - Dec 2021
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                    </div>
                 </div>
             </div>
         </section>
