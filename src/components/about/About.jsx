@@ -17,13 +17,9 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Experienced full stack developer with 1 years of experience in
-            developing and maintaining high-performance systems. Proven track
-            record of increasing website traffic and conversion rates by 15%.
-            Skilled in implementing new data management systems, streamlining
-            data processing and improving data accuracy by 20%. Strong
-            collaborator with a track record of delivering on-time and on-budget
-            projects and initiatives.
+          Experienced Full Stack Developer with a proven ability to build and optimize high-performance systems. 
+          Skilled in enhancing website efficiency, boosting traffic and conversion rates, and implementing streamlined data management solutions. 
+          Focused on delivering scalable, maintainable, and impactful solutions while ensuring seamless collaboration and on-time project execution.
           </p>
 
           <a download="" href={CV} className="button button--flex">
